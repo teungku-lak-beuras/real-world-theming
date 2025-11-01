@@ -10,4 +10,4 @@ the [Theming in Compose with Material 3 Codelab](https://developer.android.com/c
 
 ## License
 
-No license. I am the owner now.
+No license. I am the owner now, well... except for the assets/resources bundled.
