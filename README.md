@@ -6,6 +6,7 @@ the [Theming in Compose with Material 3 Codelab](https://developer.android.com/c
 ## Screenshots
 
 ![Theming states](screenshots/theming.png "Theming states")
+**_This figure is not real representative of the application's user interface. It is similar though..._**
 
 ## License
 
